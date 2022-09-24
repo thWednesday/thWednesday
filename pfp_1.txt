@@ -1,0 +1,1 @@
+python3 main.py --bg BLACK --x 128 --y 128 --zoom 17 --c 20
