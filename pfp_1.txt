@@ -1,1 +1,2 @@
-python3 main.py --bg BLACK --x 128 --y 128 --zoom 17 --c 20
+pfp_1.png python3 main.py --bg BLACK --x 128 --y 128 --zoom 17 --c 20
+pfp_240.png python3 main.py --bg BLACK --x 128 --y 128 --zoom 17 --c 1000
